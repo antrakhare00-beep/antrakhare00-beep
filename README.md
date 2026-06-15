@@ -16,7 +16,7 @@ I'm an aspiring engineer who enjoys learning technology through hands-on project
 - HTML Basics
 - CSS Fundamentals
 - JavaScript Fundamentals
-- Arduino Programming
+- Arduino Programming with tinkercad
 - Git & GitHub
 - Problem Solving
 
